@@ -1,13 +1,16 @@
 # Bella Cucina Restaurant Page
 
-A responsive single-page restaurant website for **Bella Cucina**, an Italian restaurant. The project uses JavaScript modules and Webpack to dynamically render the Home, Menu, and About sections without reloading the page.
+A single-page restaurant website for **Bella Cucina**, an Italian restaurant. The project uses JavaScript modules and Webpack to dynamically render the Home, Menu, and About sections without reloading the page.
+
+## Live Preview
+
+[View Live Demo](https://basnet194dipak.github.io/Project-Restaurant-Page/)
 
 ## Features
 
 - Tab-based navigation for Home, Menu, and About sections
 - JavaScript-generated restaurant menu with categories and descriptions
 - Restaurant image, contact details, and opening hours
-- Responsive layout and warm Italian-inspired styling
 - Asset and CSS bundling through Webpack
 
 ## Tech Stack
